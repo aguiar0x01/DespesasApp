@@ -12,4 +12,6 @@
 <h2 align="center">Apresentação</h2>
 
 <p align="center">Elegante, moderno e prático.</p>
-<img align="center" src="./apresentation/img/apresentacao_despesas.jpg" width="300" height="">
+<p align="center">
+  <img src="./apresentation/img/apresentacao_despesas.jpg" width="300" height="">
+</p>
