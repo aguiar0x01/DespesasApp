@@ -17,17 +17,3 @@
 </p>
 
 <br>
-<h3>Teste a aplicação com o arquivo executável *.APK<br>(Android apenas, por enquanto).</h3>
-<p>Encontre o arquivo .APK em:<br></p>
-
-<pre>
-  <code>
-    ├─DespesasApp
-    │      
-    ├───build
-    │   └───app
-    │       ├───outputs
-    │       │   ├───flutter-apk
-    │       │   │   └─── app.apk
-  </code>
-</pre>
